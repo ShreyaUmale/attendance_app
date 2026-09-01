@@ -17,4 +17,4 @@ A Flutter-based Attendance Management System designed to help teachers efficient
 
 # Project Purpose
 
-This project was developed to provide aN efficient way for teachers to manage and track student attendance.
+This project was developed to provide an efficient way for teachers to manage and track student attendance.
